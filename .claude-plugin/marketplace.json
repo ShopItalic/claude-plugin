@@ -1,0 +1,6 @@
+{
+  "name": "italic",
+  "owner": {"name": "Italic, Inc.", "email": "technology@italic.com"},
+  "description": "Italic's plugin for Claude.",
+  "plugins": [{"name": "italic", "source": "./", "category": "productivity"}]
+}
