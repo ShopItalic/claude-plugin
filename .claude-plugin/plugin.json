@@ -1,7 +1,7 @@
 {
   "name": "italic",
   "displayName": "Italic",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Search, recap and save your Italic voice notes, and review what your workflows drafted, from Claude.",
   "author": {"name": "Italic, Inc.", "email": "technology@italic.com", "url": "https://www.italic.com"},
   "homepage": "https://app.italic.com/about",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "keywords": ["notes", "voice notes", "dictation", "memos", "clips", "productivity"],
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://docs.italic.com/guides/claude",
+  "documentationUrl": "https://app.italic.com/docs/guides/claude",
   "supportUrl": "https://app.italic.com/about#support",
   "privacyPolicyUrl": "https://app.italic.com/privacy",
   "termsOfServiceUrl": "https://app.italic.com/terms"
